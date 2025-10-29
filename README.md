@@ -34,6 +34,7 @@ Nesta segunda etapa, o projeto recebeu estilização completa por meio de um arq
 - Sistema de espaçamentos consistente (8px, 16px, 24px...);
 - Layouts construídos com **Flexbox** e **Grid** para responsividade;
 - Efeitos sutis de hover, transição e sombra em botões e cards.
+- Menu hamburguer adicionado.
 
 
 
