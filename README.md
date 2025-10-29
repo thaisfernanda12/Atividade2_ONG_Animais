@@ -5,6 +5,14 @@ O site é destinado a visitantes, apoiadores e novos voluntários, e foi criado 
 
 ---
 
+## 🚀 Acesse o site com HTML e também CSS incluido:
+
+https://thaisfernanda12.github.io/Atividade2_ONG_Animais/
+
+---
+
+
+
 ## 🗂️ Páginas do Projeto
 
 - **index.html** – Página inicial com informações sobre a ONG, incluindo seções de apresentação, missão, visão e valores.
@@ -27,10 +35,6 @@ Nesta segunda etapa, o projeto recebeu estilização completa por meio de um arq
 - Layouts construídos com **Flexbox** e **Grid** para responsividade;
 - Efeitos sutis de hover, transição e sombra em botões e cards.
 
----
 
-## 🚀 Acesse o site com HTML e também CSS incluido:
-
-https://thaisfernanda12.github.io/Atividade2_ONG_Animais/
 
 
